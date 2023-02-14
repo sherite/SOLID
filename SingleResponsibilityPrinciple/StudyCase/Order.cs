@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 
-namespace Solid_S.StudyCase
+namespace Solid_SRP.StudyCase
 {
     public class Order
     {

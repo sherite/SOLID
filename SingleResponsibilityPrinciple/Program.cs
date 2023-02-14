@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Solid_S
+namespace Solid_SRP
 {
     internal class Program
     {
