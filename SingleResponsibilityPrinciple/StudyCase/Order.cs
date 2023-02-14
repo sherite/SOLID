@@ -32,5 +32,4 @@ namespace Solid_S
     public class Invoice { }
     public class ValidationResult { }
 }
-
 #endregion Definitions
