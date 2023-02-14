@@ -24,7 +24,7 @@ namespace Solid_SRP.StudyCase
 
 #region Definitions
 
-namespace Solid_S
+namespace Solid_SRP
 {
     public class Customer { }
     public class OrderLine { }
