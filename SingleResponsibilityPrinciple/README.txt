@@ -1,4 +1,12 @@
-﻿LINKS: 
+﻿SOLID - SINGLE RESPONSIBILITY PRINCIPLE
+
+STATEMENT:
+A class should have one, and only one reason to change.
+
+ENUNCIADO:
+Una clase debería tener una, y sólo una única razón para cambiar.
+
+LINKS: 
 
 SPANISH TEXT:
 https://es.wikipedia.org/wiki/Principio_de_responsabilidad_%C3%BAnica
