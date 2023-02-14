@@ -1,4 +1,20 @@
-﻿LINKS: 
+﻿
+SOLID - OPEN CLOSED PRINCIPLE (OCP)
+---------------------------------------------------------------------
+STATEMENT:
+
+SOFTWARE ENTITIES (CLASSES, MODULES, ETC.) 
+SHOULD BE OPEN FOR EXTENSION, 
+BUT CLOSED FOR MODIFICATION.
+---------------------------------------------------------------------
+ENUNCIADO:
+
+LAS ENTIDADES DE SOFTWARE (CLASES MÓDULOS, ETC.) 
+DEBEN QUEDAR ABIERTAS PARA EXTENSIÓN, 
+PERO CERRADAS PARA MODIFICACIÓN.
+---------------------------------------------------------------------
+
+LINKS: 
 
 SPANISH TEXT:
 https://es.wikipedia.org/wiki/Principio_de_responsabilidad_%C3%BAnica

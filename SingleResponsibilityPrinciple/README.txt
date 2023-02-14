@@ -1,10 +1,13 @@
 ﻿SOLID - SINGLE RESPONSIBILITY PRINCIPLE (SRP)
-
+---------------------------------------------------------------------
 STATEMENT:
-A class should have one, and only one reason to change.
 
+A CLASS SHOULD HAVE ONLY ONE REASON TO CHANGE.
+---------------------------------------------------------------------
 ENUNCIADO:
-Una clase debería tener una, y únicamente una razón para cambiar.
+
+UNA CLASE DEBE TENER UNA SOLA RAZÓN PARA CAMBIAR.
+---------------------------------------------------------------------
 
 LINKS: 
 
@@ -25,3 +28,4 @@ https://www.youtube.com/watch?v=Q5dKG59Tolo
 https://www.youtube.com/watch?v=pGYHeYig19Q
 https://www.youtube.com/watch?v=31Ex4xIfyXk
 https://www.youtube.com/watch?v=c97P1UmF1cs
+---------------------------------------------------------------------

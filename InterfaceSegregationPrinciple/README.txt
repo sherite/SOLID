@@ -1,1 +1,12 @@
-﻿
+﻿SOLID - INTERFACE SEGREGATION PRINCIPLE (ISP)
+---------------------------------------------------------------------
+STATEMENT:
+
+A CLIENT SHOULD NEVER BE FORCED TO IMPLEMENT AN INTERFACE THAT IT DOESN'T USE OR
+  CLIENTS SHOULDN'T BE FORCED TO DEPEND ON METHODS THEY DON'T USE.
+---------------------------------------------------------------------
+ENUNCIADO:
+
+UN CLIENTE JAMAS DEBE SER FORZADO A IMPLEMENTAR UNA INTERFAZ QUE NO UTILICE O
+LOS CLIENTES NO DEBEN SER FORZADOS A DEPENDER DE METODOS QUE NO UTILICEN.
+---------------------------------------------------------------------
