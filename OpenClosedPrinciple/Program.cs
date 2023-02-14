@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace OpenClosedPrinciple
+namespace Solid_O
 {
     internal class Program
     {

@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 
-namespace SingleResponsibilityPrinciple.AppliedPrinciple
+namespace Solid_S.AppliedPrinciple
 {
     #region EntitiesLayer
     public class Order

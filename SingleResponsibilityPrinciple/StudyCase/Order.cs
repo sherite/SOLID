@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 
-namespace SingleResponsibilityPrinciple.StudyCase
+namespace Solid_S.StudyCase
 {
     public class Order
     {
@@ -24,7 +24,7 @@ namespace SingleResponsibilityPrinciple.StudyCase
 
 #region Definitions
 
-namespace SingleResponsibilityPrinciple
+namespace Solid_S
 {
     public class Customer { }
     public class OrderLine { }

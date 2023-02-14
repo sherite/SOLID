@@ -1,0 +1,5 @@
+﻿STATEMENT:
+software entities (classes, modules, functions, etc.) should be open for extension, but closed for modification.
+
+ENUNCIADO:
+una entidad de software (clase, módulo, función, etc.) debe quedarse abierta para su extensión, pero cerrada para su modificación.
