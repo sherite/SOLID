@@ -4,7 +4,7 @@ STATEMENT:
 A class should have one, and only one reason to change.
 
 ENUNCIADO:
-Una clase debería tener una, y sólo una única razón para cambiar.
+Una clase debería tener una, y únicamente una razón para cambiar.
 
 LINKS: 
 
