@@ -43,10 +43,10 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="AppliedPrinciple\Figure.cs" />
+    <Compile Include="AppliedPrinciple\Invoices.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="StudyCase\Figure.cs" />
+    <Compile Include="StudyCase\Invoices.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />

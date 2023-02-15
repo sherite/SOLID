@@ -17,19 +17,21 @@ PERO CERRADAS PARA MODIFICACIÓN.
 LINKS: 
 
 SPANISH TEXT:
-https://es.wikipedia.org/wiki/Principio_de_responsabilidad_%C3%BAnica
-https://devexperto.com/principio-responsabilidad-unica/
-https://desarrolloweb.com/articulos/principio-reponsabilidad-unica-I-dotnet.html
-https://www.toptal.com/software/principio-de-responsabilidad-unica-una-receta-para-el-gran-codigo
+https://es.wikipedia.org/wiki/Principio_de_abierto/cerrado
+https://alexandrefreire.com/principios-solid/abierto-cerrado/
+https://www.statdeveloper.com/principio-de-abierto-cerrado/
+https://www.adictosaltrabajo.com/2014/10/23/solid-2/
+
 
 ENGLISH TEXT:
-https://en.wikipedia.org/wiki/Single-responsibility_principle
-https://www.baeldung.com/java-single-responsibility-principle
-https://deviq.com/principles/single-responsibility-principle/
-https://www.digitalocean.com/community/conceptual-articles/s-o-l-i-d-the-first-five-principles-of-object-oriented-design#single-responsibility-principle
+https://www.geeksforgeeks.org/open-closed-principle-in-java-with-examples/
+https://en.wikipedia.org/wiki/Open%E2%80%93closed_principle
+https://stackify.com/solid-design-open-closed-principle/
+https://learn.microsoft.com/en-us/archive/msdn-magazine/2008/june/patterns-in-practice-the-open-closed-principle
+
 
 SPANISH VIDEOS:
-https://www.youtube.com/watch?v=Q5dKG59Tolo
-https://www.youtube.com/watch?v=pGYHeYig19Q
-https://www.youtube.com/watch?v=31Ex4xIfyXk
-https://www.youtube.com/watch?v=c97P1UmF1cs
+https://www.youtube.com/watch?v=ViKWVjyMUwQ&t=1s
+https://www.youtube.com/watch?v=m37QKcB85FE
+https://www.youtube.com/watch?v=KxeUnivMNik
+https://www.youtube.com/watch?v=-quWFkvOfjM
