@@ -1,6 +1,4 @@
-﻿using System;
-
-namespace StudyCase
+﻿namespace StudyCase
 {
     namespace SOLID_PRINCIPLES.OCP
     {
@@ -8,7 +6,7 @@ namespace StudyCase
         {
             public double GetInvoiceDiscount(double amount, InvoiceType invoiceType)
             {
-                double finalAmount = 0;
+                var finalAmount = 0d;
 
                 if (invoiceType == InvoiceType.FinalInvoice)
                 {
