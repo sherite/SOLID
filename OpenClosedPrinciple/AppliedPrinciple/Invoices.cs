@@ -33,5 +33,15 @@ namespace AppliedPrinciple
                 return base.GetInvoiceDiscount(amount) - 30;
             }
         }
+
+        public class TestInvoice : Invoice
+        {
+            public override double GetInvoiceDiscount(double amount)
+            {
+                return base.GetInvoiceDiscount(amount) - 20;
+            }
+        }
+
     }
+   
 }
